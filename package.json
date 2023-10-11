@@ -1,0 +1,32 @@
+{
+  "name": "book-inspection",
+  "version": "1.0.0",
+  "description": "book-inspection is a convenient booking library that makes it easy to schedule an inspection slot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sacrolabs/book-inspection.git"
+  },
+  "keywords": [
+    "book-inspection",
+    "time-slot",
+    "slot",
+    "scheduler",
+    "appointment",
+    "booking",
+    "appointments",
+    "reservation",
+    "api",
+    "time",
+    "date"
+  ],
+  "author": "Sacrolabs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sacrolabs/book-inspection/issues"
+  },
+  "homepage": "https://github.com/Sacrolabs/book-inspection#readme"
+}
